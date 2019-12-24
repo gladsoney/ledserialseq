@@ -1,0 +1,13 @@
+main.c:123:7:serial1	32	static
+main.c:73:5:main	112	static
+main.c:149:7:serial2	32	static
+main.c:171:7:serial3	32	static
+main.c:195:7:serial4	32	static
+main.c:219:7:serial5	32	static
+main.c:243:7:serial6	40	static
+main.c:309:6:SystemClock_Config	128	static
+main.c:356:13:MX_I2C1_Init	8	static
+main.c:402:13:MX_SPI1_Init	8	static
+main.c:442:13:MX_USB_PCD_Init	8	static
+main.c:473:13:MX_GPIO_Init	48	static
+main.c:523:6:Error_Handler	4	static
